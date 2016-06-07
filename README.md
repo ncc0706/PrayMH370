@@ -1,0 +1,3 @@
+# 祈祷MH370
+
+从Android 2.2开始fill_parent改名为match_parent，从API Level 8可以直接用match_parent来代替fill_parent，不过2.2以后的版本fill_parent仍然可以使用，他们的含义都是一样的，都是填满整个父窗口
